@@ -1,4 +1,4 @@
-# Predicting Intruder Movement in Brazil Nut Effect Using Mutilayer Perceptron
+# Predicting intruder movement in a system with granular mixture using Multilayer Perceptron
 
 ![image](https://user-images.githubusercontent.com/63452774/109768851-03daac80-7c2c-11eb-9d79-76f8a50df7d6.png)
 
